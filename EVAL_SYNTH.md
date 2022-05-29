@@ -2,7 +2,7 @@
 
 1. Run prediction code:
 ```
-% ./predict_synth.py input.txt predictions.txt
+% ./predict3_synth.py datasetname predictions.txt
 ```
 
 2. Filter the output:
